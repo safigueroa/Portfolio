@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Portfolio on Sergio Figueroa</title>
-    <link>https://safigueroa.github.io/Project_Portfolio/</link>
+    <link>https://safigueroa.github.io/Portfolio/</link>
     <description>Recent content in My Portfolio on Sergio Figueroa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://safigueroa.github.io/Project_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://safigueroa.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zoom Stock Time Series Analysis</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/post/project-3/</link>
+      <link>https://safigueroa.github.io/Portfolio/post/project-3/</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/post/project-3/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/post/project-3/</guid>
       <description>Utilized Python libraries (pandas, numpy, scikit-learn) on 3 years of Zoom stock prices from Yahoo Finance. Built time series forecasting models (Facebook Prophet and Holt-Winters) to predict future stock prices. Achieved an accurate model (22% MAPE over a 120-day future forecast) which plays a critical role in reflecting overall stock market trends and seasonality. Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Finding Value in NFTs</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/post/project-2/</link>
+      <link>https://safigueroa.github.io/Portfolio/post/project-2/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/post/project-2/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/post/project-2/</guid>
       <description>Performed text analytics in Python on 20 random NFT whitepapers using Natural Language Processing. Created a Latent Dirichlet Allocation model to visualize and analyze distinct NFT topics. Supported claim of value in NFTs that provide utility using custom KPIs. Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Gaming Anxiety Big Data Analysis</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/post/project-1/</link>
+      <link>https://safigueroa.github.io/Portfolio/post/project-1/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/post/project-1/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/post/project-1/</guid>
       <description>Analyzed 13,000 surveys from an online gaming community for signs of increased anxiety over the pandemic. Utilized Big Data tools such as machine learning and ensemble modeling (Gradient Boosted Trees) run on an AWS EMR Cluster in Pyspark. Identified potential issues in general anxiety, life satisfaction, and social anxiety levels in increased gaming. Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>Data Mining for Mental Health Awareness</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/post/project-4/</link>
+      <link>https://safigueroa.github.io/Portfolio/post/project-4/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/post/project-4/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/post/project-4/</guid>
       <description>Applied preprocessing and Exploratory Data Analysis methods (PCA, Feature Selection) in Python on 28,000 untidy records of suicide rates among socio-economic factors across the globe. Visualized data using seaborn (boxplots and heatmaps) and built a multivariate regression model. Underlined the drastic consequences of poor mental health in the world with visualizations and analytics, using insights to combat this issue with better informed decisions. Link to GitHub Repository</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/about/</link>
+      <link>https://safigueroa.github.io/Portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/about/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/about/</guid>
       <description>Hi, I’m Sergio Figueroa, a recent Cal Poly Pomona business graduate! I majored in Computer Information Systems with a concentration in Business Intelligence and I am extremely passionate about data science. It is through my coding (Python, R, SQL, Java), statistics, and business background that enables me to build a story from data that creates a positive and lasting impact for all.
 I&amp;rsquo;m always looking for new opportunities to improve my data science skills and collaborate with like-minded peers.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://safigueroa.github.io/Project_Portfolio/contact/</link>
+      <link>https://safigueroa.github.io/Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://safigueroa.github.io/Project_Portfolio/contact/</guid>
+      <guid>https://safigueroa.github.io/Portfolio/contact/</guid>
       <description>Please send me a message if you have any inquiries. I&amp;rsquo;d love to hear from you!
 Your Name Email Address An email address is required. Message </description>
     </item>
